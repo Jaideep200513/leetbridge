@@ -35,15 +35,31 @@ hard/123.cpp
 
 ## Architecture
 
-LeetCode
-↓
-LeetBridge
-↓
-Metadata Extraction
-↓
-GitHub REST API
-↓
-GitHub Repository
+```text
+┌────────────┐
+│  LeetCode  │
+└─────┬──────┘
+      │
+      ▼
+┌────────────┐
+│ LeetBridge │
+└─────┬──────┘
+      │
+      ▼
+┌─────────────────────┐
+│ Metadata Extraction │
+└─────┬───────────────┘
+      │
+      ▼
+┌─────────────────────┐
+│  GitHub REST API    │
+└─────┬───────────────┘
+      │
+      ▼
+┌─────────────────────┐
+│ GitHub Repository   │
+└─────────────────────┘
+```
 
 ## Tech Stack
 
