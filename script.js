@@ -12,8 +12,8 @@
 
     const GITHUB_TOKEN = "YOUR_GITHUB_TOKEN";
 
-    const OWNER = "Jaideep200513";
-    const REPO = "Leetcode-solutions";
+    const OWNER = "YOUR_USERNAME";
+    const REPO = "YOUR_REPO_NAME";
 
     console.log("LeetCode Sync Loaded!");
 
